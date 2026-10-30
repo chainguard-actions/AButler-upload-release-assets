@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v4.0.0 | [`v4.0.0`](https://github.com/chainguard-actions/AButler-upload-release-assets/tree/v4.0.0) | [`3449100`](https://github.com/AButler/upload-release-assets/commit/34491005a5d7ec239a784e460807ce844fde7962) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v4.0.0 | [`v4.0.0`](https://github.com/chainguard-actions/AButler-upload-release-assets/tree/v4.0.0) | [`3449100`](https://github.com/AButler/upload-release-assets/commit/34491005a5d7ec239a784e460807ce844fde7962) | [`HARDENING.md`](https://github.com/chainguard-actions/AButler-upload-release-assets/blob/v4.0.0/HARDENING.md) |
 
 ## Privacy
 
